@@ -1,5 +1,5 @@
 {pkgs, ...}: {
-  name = "Example Devcontainer Template";
+  name = "Example-Devcontainer-Template";
   compiler-nix-name = "ghc8107"; # Version of GHC to use
 
   # Cross compilation support:
