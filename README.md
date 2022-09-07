@@ -1,0 +1,1 @@
+  [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_image=gcr.io/spatial-ship-359809/devcontainer-test:latest&cloudshell_git_repo=https://github.com/input-output-hk/devcontainer-repo-template&cloudshell_workspace=.)
